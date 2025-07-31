@@ -29,13 +29,13 @@ The result is a ready-to-use `clean_keys.dic` file for your devices.
     ```bash
     git clone https://github.com/nbox/Chameleon-Ultra-Flipper-Zero-key-dictionary.git
     cd Chameleon-Ultra-Flipper-Zero-key-dictionary
-    chmod +x merge_keys.sh
+    chmod +x run.sh
     ```
     
 2. **Run the build**
     
     ```bash
-    ./merge_keys.sh
+    ./run.sh
     ```
     
     - `all_keys.dic` — raw unprocessed set
